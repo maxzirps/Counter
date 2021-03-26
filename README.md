@@ -1,1 +1,1 @@
-# Simple Counter Appy
+# Simple Counter App
